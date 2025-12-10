@@ -3,16 +3,6 @@
 <h3 align="center"> ⌛ I’m currently learning in IFMG SJE</h3>
 <img align="center" src="https://www2.ifmg.edu.br/portal/comunicacao/logo/rgb/simples/campus-sao-joao-evangelista.png" alt="Logo IFMG SJE" width="800" height="600">
 
----
-
-<h3 align="center">🌟My Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaniz-dev&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaniz-dev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-
 --- 
 <img align="right" src="https://raw.githubusercontent.com/Vaniz-dev/Franciny-Pg/refs/heads/main/ss.png" width=300 height=300 >
 
