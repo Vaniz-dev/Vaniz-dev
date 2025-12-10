@@ -20,3 +20,4 @@
 ---
 
 <a href="https://www.instagram.com/vanizcs/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/intl-pt/artist/4ayn0EV1WfG6bQP1dyG9ft"><img src="https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
