@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Junior 👋</h1>
 
 <h3 align="center"> ⌛ I’m currently learning in IFMG SJE</h3>
-<img align="center" src="https://www2.ifmg.edu.br/portal/comunicacao/logo/rgb/simples/campus-sao-joao-evangelista.png" alt="Logo IFMG SJE" width="800" height="500">
+<img align="center" src="https://www2.ifmg.edu.br/portal/comunicacao/logo/rgb/simples/campus-sao-joao-evangelista.png" alt="Logo IFMG SJE" width="800" height="200">
 
 --- 
 <img align="right" src="https://raw.githubusercontent.com/Vaniz-dev/Franciny-Pg/refs/heads/main/ss.png" width=300 height=300 >
